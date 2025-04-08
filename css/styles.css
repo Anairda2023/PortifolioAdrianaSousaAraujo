@@ -388,7 +388,7 @@ p{
     }
 
     section#caroussel{
-        display: flex; justify-content: center; align-items: center; height: 90vh;
+        display: flex; justify-content: center; align-items: center; height: 84vh;
         margin-top: 20px;
         width: 100%;
         overflow: hidden;
@@ -396,9 +396,7 @@ p{
        
         position: relative;
     }
-  div#caroussel-container{
-    height: 100vh;
-  }
+ 
  
 
 header > h2{
