@@ -348,6 +348,9 @@ article#Imc div#codigo > img{
        
         position: relative;
     }
+    div#caroussel-container{
+        height: 82vh;
+    }
     
 
     
@@ -395,7 +398,9 @@ p{
        
         position: relative;
     }
-
+    div#caroussel-container{
+        height: 90vh;
+    }
  
 
 header > h2{
