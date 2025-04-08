@@ -396,7 +396,9 @@ p{
        
         position: relative;
     }
-  
+  div#caroussel-container{
+    height: 90vh;
+  }
  
 
 header > h2{
