@@ -388,7 +388,7 @@ p{
     }
 
     section#caroussel{
-        display: flex; justify-content: center; align-items: center; height: 84vh;
+        display: flex; justify-content: center; align-items: center; height: 100vh;
         margin-top: 20px;
         width: 100%;
         overflow: hidden;
